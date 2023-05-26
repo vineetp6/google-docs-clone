@@ -23,12 +23,6 @@
   </ol>
 </details>
 
-## 📣 Latest Announcements
-
-🆕 5-10-2021: We now have a discussions form, if you want any new feature to be implemented you can [discuss here](https://github.com/Rishabh-malhotraa/caucus/discussions/50)
-
-🆕 28-09-2021: Caucus is participating in Hacktoberfest 2021 🥳
-
 ## About The Project
 
 

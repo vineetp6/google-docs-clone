@@ -1,37 +1,3 @@
-<!-- PROJECT SHIELDS -->
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![All Contributors][all-contributors-shield]](#contributors-)
-
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://caucus-app.herokuapp.com/">
-    <img src="images/logo.png" alt="Logo" width="256" height="256">
-  </a>
-
-  <strong>
-    <h3 align="center" >caucus</h3>
-  </strong>
-  <p align="center">
-    A Real Time Collaborative Editor with an embedded compiler
-    <br />
-    <a href="https://github.com/Rishabh-malhotraa/caucus/tree/main/src"><strong>Explore the project »</strong></a>
-    <br />
-    <br />
-    <a href="https://caucus-app.herokuapp.com/">View Demo</a>
-    ·
-    <a href="https://github.com/Rishabh-malhotraa/caucus/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/Rishabh-malhotraa/caucus/issues">Request Feature</a>
-  </p>
-</p>
-
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>

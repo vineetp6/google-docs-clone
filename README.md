@@ -65,21 +65,7 @@
 
 ## About The Project
 
-### Demonstration
 
-[![Product Demonstation][product-demo]](https://caucus-app.herokuapp.com/)
-
-<br/>
-
-### Collaborative Code Editor
-
-[![Product Name Screen Shot][product-screenshoti]](https://caucus-app.herokuapp.com/)
-
-|                                       Login Page                                       |                                   Navigate Rooms Page                                   |
-| :------------------------------------------------------------------------------------: |    :-------------------------------------------------------------------------------------: |
-| [![Product Name Screen Shot][product-screenshotii]](https://caucus-app.herokuapp.com/) | [![Product Name Screen Shot][product-screenshotiii]](https://caucus-app.herokuapp.com/) |
-
-<br />
 
 ### Built With
 

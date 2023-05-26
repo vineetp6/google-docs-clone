@@ -186,17 +186,6 @@ Refer to this [article](https://medium.com/swlh/guide-to-git-a-practical-approac
 ## License
 
 Distributed under the MIT License. See [`LICENSE`][license-url] for more information.
-
----
-
-## Contact
-
-Rishabh malhotraa - [@rish_bishhh](https://twitter.com/rish_bishhh) - rishabhmalhotraa01@gmail.com
-
-Discord : rishabh.malhotra#4193
-
-Project Link: [https://caucus-app.herokuapp.com/](https://caucus-app.herokuapp.com/)
-
 ---
 
 ## Stargazers over time
